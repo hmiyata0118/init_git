@@ -2,3 +2,4 @@ gitのテストを行う。
 これからテストをします。
 git add
 git commit
+git remove
